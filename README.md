@@ -8,7 +8,6 @@ Project for executing the Ansible playbooks for system automation.
 - `nagios` Install and configure Nagios for monitoring.
 - `opensearch` Install and configure OpenSearch datalake.
 - `jellyfin` Install and configure JellyFin media sharing.
-- `libvirt` Install and configure the Libvirt hypervisor.
 
 ## Quick start for local development
 Start by cloning the repository to your local machine.
