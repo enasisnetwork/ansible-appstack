@@ -1,13 +1,14 @@
 # Enasis Network Ansible Applications Collection
 
-> :warning: This project has not released its first major version.
+> This project has not released its first major version.
 
-Project for executing the Ansible playbooks for system automation.
+> This collection is only a placeholder for the moment.
 
-## Playbooks and roles within project
-- `nagios` Install and configure Nagios for monitoring.
-- `opensearch` Install and configure OpenSearch datalake.
-- `jellyfin` Install and configure JellyFin media sharing.
+Ansible content for installing and configuring the applications.
+
+Check out this collection on
+[Ansible Galaxy](https://galaxy.ansible.com/ui/repo/published/enasisnetwork/appstack)
+for more information.
 
 ## Quick start for local development
 Start by cloning the repository to your local machine.
