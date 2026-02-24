@@ -10,6 +10,16 @@ Check out this collection on
 [Ansible Galaxy](https://galaxy.ansible.com/ui/repo/published/enasisnetwork/appstack)
 for more information.
 
+<a href="https://galaxy.ansible.com/ui/repo/published/enasisnetwork/appstack"><img src="https://enasisnetwork.github.io/ansible-appstack/badges/galaxy.png"></a><br>
+<a href="https://enasisnetwork.github.io/ansible-appstack/validate/flake8.txt"><img src="https://enasisnetwork.github.io/ansible-appstack/badges/flake8.png"></a><br>
+<a href="https://enasisnetwork.github.io/ansible-appstack/validate/pylint.txt"><img src="https://enasisnetwork.github.io/ansible-appstack/badges/pylint.png"></a><br>
+<a href="https://enasisnetwork.github.io/ansible-appstack/validate/ruff.txt"><img src="https://enasisnetwork.github.io/ansible-appstack/badges/ruff.png"></a><br>
+<a href="https://enasisnetwork.github.io/ansible-appstack/validate/mypy.txt"><img src="https://enasisnetwork.github.io/ansible-appstack/badges/mypy.png"></a><br>
+<a href="https://enasisnetwork.github.io/ansible-appstack/validate/yamllint.txt"><img src="https://enasisnetwork.github.io/ansible-appstack/badges/yamllint.png"></a><br>
+<a href="https://enasisnetwork.github.io/ansible-appstack/validate/ansblint.txt"><img src="https://enasisnetwork.github.io/ansible-appstack/badges/ansblint.png"></a><br>
+<a href="https://enasisnetwork.github.io/ansible-appstack/validate/pytest.txt"><img src="https://enasisnetwork.github.io/ansible-appstack/badges/pytest.png"></a><br>
+<a href="https://enasisnetwork.github.io/ansible-appstack/validate/coverage.txt"><img src="https://enasisnetwork.github.io/ansible-appstack/badges/coverage.png"></a><br>
+
 ## Quick start for local development
 Start by cloning the repository to your local machine.
 ```
