@@ -66,6 +66,7 @@ jobs:
       - name: Build environment
         working-directory: main
         run: |
+          pip install enbasics
           make -s venv-create
           pip install ansi2txt
 
